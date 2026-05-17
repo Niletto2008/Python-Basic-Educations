@@ -1,0 +1,5 @@
+Mytuple = (1,2,2,7,7,9,0,2,5)
+res1 = Mytuple.index(2)
+print(res1)
+res2 = Mytuple.count(7)
+print(res2)
